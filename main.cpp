@@ -7,6 +7,9 @@ using namespace std;
 int main() {
     cout << "La somma di due numeri" << endl;
     cout << calcolaSomma(5,2);
-    cout << "alleluja";
+
+    cout << "calcolo effettuato" << endl;
+    cout << "provo a fare add" <<endl;
+
     return 0;
 }
