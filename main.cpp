@@ -1,7 +1,7 @@
 #include <iostream>
 #include "operazioni.h"
 
-// TODO: redkjhckhjkfhdskjhfdskjhskdfj è un po' confusionario, magari faccio una classe che si chiama Operazioni e metto dentro tutte le funzioni, così è più ordinato
+// TODO: dfgdfgd è un po' confusionario, magari faccio una classe che si chiama Operazioni e metto dentro tutte le funzioni, così è più ordinato
 using namespace std;
 //345834953098
 
