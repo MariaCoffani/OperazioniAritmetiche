@@ -15,6 +15,6 @@ int main() {
 
     cout << "calcolo effettuato" << endl;
     cout << "provo a fare add" <<endl;
-
+ pinco pallo pippo pluto paolino paperino
     return 0;
 }
