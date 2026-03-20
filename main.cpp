@@ -1,9 +1,9 @@
 #include <iostream>
 #include "operazioni.h"
 
-// TODO: refactor sta cosa, non è bello così, è un po' confusionario, magari faccio una classe che si chiama Operazioni e metto dentro tutte le funzioni, così è più ordinato
+// TODO: redkjhckhjkfhdskjhfdskjhskdfj è un po' confusionario, magari faccio una classe che si chiama Operazioni e metto dentro tutte le funzioni, così è più ordinato
 using namespace std;
-//test
+//345834953098
 
 // prova
 
