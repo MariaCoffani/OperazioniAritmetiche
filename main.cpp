@@ -3,7 +3,7 @@
 
 // TODO: refactor sta cosa, non è bello così, è un po' confusionario, magari faccio una classe che si chiama Operazioni e metto dentro tutte le funzioni, così è più ordinato
 using namespace std;
-
+//test
 
 int main() {
     cout << "La somma di due numeri" << endl;
